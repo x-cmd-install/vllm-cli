@@ -1,11 +1,13 @@
 about:
-  description: A command-line interface tool for serving LLM using vLLM.
+  description:
+  |
+    A command-line interface tool for serving LLM using vLLM.
   license: MIT
   homepage: 
   head: 36356b6
   archived: false
   latestVersion: v0.2.5
-  collectedAt: 2026-09-03T05:19:03Z
+  collectedAt: 2026-09-03T22:34:51Z
 timeline:
   created: 2025-08-14
   lastCommit: 2026-01-25
@@ -22,7 +24,7 @@ language:
   Python: 1209939
   Shell: 7586
   Makefile: 3581
-totalLine: 1221106
+totalBytes: 1221106
 recent:
   last30d:
     since: 2026-08-04
