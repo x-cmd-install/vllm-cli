@@ -5,13 +5,13 @@ about:
   head: 36356b6
   archived: false
   latestVersion: "v0.2.5"
-  collectedAt: 2026-09-07T05:51:05Z
+  collectedAt: 2026-09-07T18:36:17Z
 timeline:
   created: 2025-08-14
   lastCommit: 2026-01-25
   lastRelease: 2025-08-25
 popularity:
-  star: 506
+  star: 505
   watcher: 2
   fork: 29
   release: 12
@@ -81,7 +81,7 @@ total:
   commit: 61
 ---
 path: /home/runner/.x-repo/github.com/Chen-zexi/vllm-cli
-collectedAt: 2026-09-07T05:51:10Z
+collectedAt: 2026-09-07T18:36:19Z
 loc:
   Python:
     code: 27004
@@ -132,7 +132,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:51:15+00:00
+  collectedAt: 2026-09-07T18:36:20+00:00
   platform:
     darwin/arm64:
       name:  null
