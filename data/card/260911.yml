@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.5"
   latestRelease: "v0.2.5"
   latestPrerelease: "v0.2.5rc2"
-  collectedAt: 2026-09-11T06:06:09Z
+  collectedAt: 2026-09-11T19:02:50Z
 timeline:
   created: 2025-08-14
   lastCommit: 2026-01-25
@@ -85,7 +85,7 @@ total:
   commit: 61
 ---
 path: /home/runner/.x-repo/github.com/Chen-zexi/vllm-cli
-collectedAt: 2026-09-11T06:06:11Z
+collectedAt: 2026-09-11T19:02:52Z
 loc:
   Python:
     code: 27004
